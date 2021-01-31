@@ -8,7 +8,7 @@ The shared task consisted of two sub-tasks:
       i.  Coarse grained Hostility Detection: The task is to predict whether a given post is hostile or not.
       ii. Fine-grained Hostility Detection: The task is to detect one or more hostile dimensions which the post belongs to. The four hostile dimensions are fake, hate, defamation, and offensive
       
-      A total of 44 teams participated in the competition. The final leaderboard can be found [here](https://drive.google.com/file/d/1KYi4A_QgmGRgEsxylCoLI2ddO872hMaf/view) 
+A total of 44 teams participated in the competition. The final leaderboard can be found [here](https://drive.google.com/file/d/1KYi4A_QgmGRgEsxylCoLI2ddO872hMaf/view) 
 
 If you find this repository useful, please cite:
 
