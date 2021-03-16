@@ -1,5 +1,9 @@
 # Hindi-Hostlity-Detection
-This is the official repository for Hostile Post Detection in Hindi language. This dataset was used in the shared task at Constraint@AAAI collocated with AAAI 2021. For more details about the shared task please visit: https://constraint-shared-task-2021.github.io/
+This is the official repository for Hostile Post Detection in Hindi language. This dataset was used in the shared task at Constraint@AAAI collocated with AAAI 2021.
+
+The Dataset paper can be found here: https://arxiv.org/abs/2011.03588
+
+For more details about the shared task please visit: https://constraint-shared-task-2021.github.io/
 
 The competition was hosted at CodaLab, for more details please visit: https://competitions.codalab.org/competitions/26654
 
