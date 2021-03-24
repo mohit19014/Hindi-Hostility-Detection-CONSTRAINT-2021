@@ -14,7 +14,7 @@ The shared task consisted of two sub-tasks:
       
 A total of 44 teams participated in the competition. The final leaderboard can be found [here](https://drive.google.com/file/d/1KYi4A_QgmGRgEsxylCoLI2ddO872hMaf/view) 
 
-If you find this repository useful, please cite:
+#### By downloading you agree to use the datasets for research purposes only and cite the below paper:
 
 @misc{bhardwaj2020hostility,
       title={Hostility Detection Dataset in Hindi}, 
